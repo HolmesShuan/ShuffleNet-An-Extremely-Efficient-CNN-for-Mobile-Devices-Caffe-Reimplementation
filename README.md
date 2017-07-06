@@ -1,5 +1,5 @@
 ## Caffe Re-implementation of ShuffleNet: An Extremely Efficient CNN for Mobile Devices
-**[WARNING]** unofficial version(**STILL UNDER TEST, Any BUG Reports are Welcomed**), may differ from ShuffleNet([arXiv pre-print](https://arxiv.org/abs/1707.01083)) own idea.
+**[WARNING]** **Unofficial version** (**STILL UNDER TEST, Any BUG Reports are Welcomed**), may differ from ShuffleNet([arXiv pre-print](https://arxiv.org/abs/1707.01083)) own idea.
 
 ## How to understand Channel Shuffle?
 *Our narrow view*:
