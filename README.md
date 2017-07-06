@@ -38,5 +38,13 @@ layer {
   }
 }
 ```
-
+## Citation
+```
+@article{ShuffleNet,
+  Author = {Xiangyu Zhang, Xinyu Zhou, Mengxiao Lin, Jian Sun},
+  Journal = {arXiv preprint arXiv:1707.01083},
+  Title = {ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices},
+  Year = {2017}
+}
+```
 
