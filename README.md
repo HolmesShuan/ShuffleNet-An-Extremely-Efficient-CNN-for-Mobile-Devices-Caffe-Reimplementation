@@ -53,4 +53,6 @@ layer {
   Year = {2017}
 }
 ```
+## Acknowledgement
+[Camel007](https://github.com/camel007/Caffe-ShuffleNet) for his shuffle idea sharing.
 
